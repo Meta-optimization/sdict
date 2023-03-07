@@ -16,7 +16,8 @@ Installation
 The following command can be run from the directory containing this file in order to
 install it::
 
-    pip install https://github.com/IGITUGraz/sdict/archive/master.zip
+  python -m pip install git+https://github.com/Meta-optimization/sdict.git/@master
+    
 
 Dependencies
 ============
